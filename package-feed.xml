@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Fraunhofer FOKUS - FHIR Packages</title>
+    <link>https://gitlab.fokus.fraunhofer.de/fhir/package-registry/-/raw/main/package-feed.xml</link>
+    <description>New FHIR Packages published by Fraunhofer FOKUS</description>
+    <language>en</language>
+    <pubDate>Mon, 27 Dec 2021 01:10:35 GMT</pubDate>
+    <generator>Fraunhofer FOKUS IMAM tooling</generator>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://gitlab.fokus.fraunhofer.de/fhir/package-registry/-/raw/main/package-feed.xml" rel="self" type="application/rss+xml" />
+    <dc:date>2021-12-27T01:10:35Z</dc:date>
+    <dc:language>en</dc:language>
+  </channel>
+</rss>
