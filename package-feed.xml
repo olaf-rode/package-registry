@@ -5,10 +5,21 @@
     <link>https://gitlab.fokus.fraunhofer.de/fhir/package-registry/-/raw/main/package-feed.xml</link>
     <description>New FHIR Packages published by Fraunhofer FOKUS</description>
     <language>en</language>
-    <pubDate>Mon, 27 Dec 2021 01:10:35 GMT</pubDate>
+    <pubDate>Mon, 03 Jan 2022 10:42:44 GMT</pubDate>
     <generator>Fraunhofer FOKUS IMAM tooling</generator>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://gitlab.fokus.fraunhofer.de/fhir/package-registry/-/raw/main/package-feed.xml" rel="self" type="application/rss+xml" />
-    <dc:date>2021-12-27T01:10:35Z</dc:date>
+    <dc:date>2022-01-03T10:42:44Z</dc:date>
     <dc:language>en</dc:language>
+    <item>
+      <title>fokus.yaftp.common#0.0.1-alpha.2</title>
+      <link>https://github.com/olaf-rode/package-registry/raw/main/packages/fokus.yaftp.common/fokus.yaftp.common-0.0.1-alpha.2.tgz</link>
+      <fhir:version xmlns:fhir="http://hl7.otg/fhir/feed">4.0.1</fhir:version>
+      <fhir:kind xmlns:fhir="http://hl7.otg/fhir/feed">fokus.yaftp.common</fhir:kind>
+      <dc:creator>Fraunhofer FOKUS</dc:creator>
+      <description>New version (0.0.1-alpha.2) of fokus.yaftp.common published</description>
+      <pubDate>Mon, 03 Jan 2022 10:42:44 GMT</pubDate>
+      <guid isPermaLink="false">https://github.com/olaf-rode/package-registry/raw/main/packages/fokus.yaftp.common/fokus.yaftp.common-0.0.1-alpha.2.tgz</guid>
+      <dc:date>2022-01-03T10:42:44Z</dc:date>
+    </item>
   </channel>
 </rss>
